@@ -16,7 +16,7 @@ public class PartA1 {
         System.out.println("\n");
 
         //Task 3
-        for(int r=-0;r<=18;r+=3)
+        for(int r=0;r<=18;r+=3)
             {
             System.out.print(r + " ");
             }
