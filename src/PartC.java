@@ -11,7 +11,7 @@ public class PartC {
 
         do {
             row = 0;
-            System.out.println("Roll    Die1   Die2   Die3   Sum");
+            System.out.println("Roll   Die1   Die2   Die3   Sum");
             System.out.println("--------------------------------");
             do {
                 row++;
