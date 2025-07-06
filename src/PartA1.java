@@ -21,5 +21,11 @@ public class PartA1 {
             System.out.print(r + " ");
             }
         System.out.println("\n");
+
+        //Task 4
+        for(int r=10;r>=0;r-=2)
+            {
+            System.out.print(r + " ");
+            }
     }
 }
